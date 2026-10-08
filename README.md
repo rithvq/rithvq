@@ -1,21 +1,17 @@
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=I'm+Rithvik+Suren;Building+Cloud+Infrastructure;Automation+and+Efficiency;Build+and+Ship" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3500&pause=1200&color=39D353&center=true&vCenter=true&width=750&height=80&lines=%24+Hey%2C+I'm+Rithvik+Suren.;%24+Building+Cloud+Infrastructure._" />
 
-<h3>
-  Cloud Engineer | AWS | DevOps | AI-Driven Applications
-</h3>
+<br>
 
 <p>
-  <a href="https://linkedin.com/in/rithvq">
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/rithvq">
+  <a href="https://x.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:rithvq@gmail.com">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-E74C3C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
