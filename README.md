@@ -11,12 +11,12 @@
 
 ### Languages & Frameworks
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,tailwind,vite,nodejs,express" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,vite,nodejs" />
 </p>
 
 ### Databases, Cloud & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,appwrite,git,postman,aws,vercel" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,postman" />
 </p>
