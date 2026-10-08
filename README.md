@@ -18,12 +18,12 @@
 
 </div>
 
-## 💼 Experience & Portfolio Highlights
+## 💼 Welcome To my Profile
 
-- 💻 **Experience:** Web Developer & Editor for ADGVIT and former Frontend Developer Intern at Aarvasa, where I built responsive React.js and Tailwind CSS interfaces.
-- 🚀 **BuildBuddy:** Developed an AI project scaffolding platform generating complete application structures from natural language using Next.js, TypeScript, PostgreSQL, and Prisma.
-- 💳 **Digital Transaction Platform:** Built a secure transaction management system with the MERN stack, Zod, and JWT authentication.
-- 🎬 **Cineflix:** Created a movie streaming web application utilizing React, Vite, Appwrite, and the TMDB API.
+
+I’m **Rithvik Surender Kumar**, a **Computer Science student at Vellore Institute of Technology (Class of 2027)**, focused on **Cloud Engineering, DevOps, and system reliability**. I enjoy building and deploying applications on **AWS**, working with **Linux, Python, and Java**, and exploring how automation and monitoring help systems run reliably. Through my cloud engineering experience at **Cerbyl** and projects involving AWS deployments and predictive cloud repair simulations, I’m turning these interests into practical experience.
+
+Let’s connect, exchange ideas, and build useful things together! 🚀
 
 ---
 
