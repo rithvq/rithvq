@@ -47,3 +47,9 @@ Let’s connect, exchange ideas, and build useful things together!
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,postman,github" />
 </p>
+
+<br>
+
+<div align="center">
+  <img src="./cloud-wave-footer.gif" width="100%" />
+</div>
