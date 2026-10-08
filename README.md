@@ -9,14 +9,44 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### Languages & Frameworks
+### Languages, Frameworks & Runtime
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,vite,nodejs" />
 </p>
 
-### Databases, Cloud & Tools
+### Cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,git,postman" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### Observability
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,cloudwatch" />
+</p>
+
+### IaC & Automation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=terraform,githubactions" />
+</p>
+
+### Containers & Orchestration
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
+
+### System Administration
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+### Development & API Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,postman" />
 </p>
