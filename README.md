@@ -5,13 +5,13 @@
 <br>
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://linkedin.com/in/rithvq">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/YOUR_USERNAME">
+  <a href="https://x.com/rithvq">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:rithvq@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-E74C3C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -21,9 +21,9 @@
 ## 💼 Welcome To my Profile
 
 
-I’m **Rithvik Surender Kumar**, a **Computer Science student at Vellore Institute of Technology (Class of 2027)**, focused on **Cloud Engineering, DevOps, and system reliability**. I enjoy building and deploying applications on **AWS**, working with **Linux, Python, and Java**, and exploring how automation and monitoring help systems run reliably. Through my cloud engineering experience at **Cerbyl** and projects involving AWS deployments and predictive cloud repair simulations, I’m turning these interests into practical experience.
+I’m *Rithvik*, a Computer Science student, focused on Cloud Engineering, DevOps and SRE. I enjoy building and deploying applications on AWS, working with Linux, Python, and Java, and exploring how automation and monitoring help systems run reliably. Through my cloud engineering experience at Cerbyl and projects involving AWS deployments and predictive cloud repair simulations, I’m turning these interests into practical experience.
 
-Let’s connect, exchange ideas, and build useful things together! 🚀
+Let’s connect, exchange ideas, and build useful things together!
 
 ---
 
