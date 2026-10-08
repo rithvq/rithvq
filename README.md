@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=39D353&center=true&vCenter=true&width=800&height=120&lines=%24+whoami;%3Erithvik-suren;%24+echo+%22Building+Cloud+Infrastructure%22;%24+sudo+./build-the-future.sh" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=39D353&center=true&vCenter=true&width=800&height=120&lines=%24+whoami;%3Erithvik-suren;%24+echo+%22Building+Cloud+Infrastructure%22;%24+sudo+./deploying.sh" />
 
 <br>
 
