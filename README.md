@@ -1,8 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=I'm+Rithvik+Suren;Building+Cloud+Infrastructure;
-    Automation+and+Efficiency;Build+and+Ship" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=I'm+Rithvik+Suren;Building+Cloud+Infrastructure;Automation+and+Efficiency;Build+and+Ship" />
 </a>
 
 <h3>
