@@ -45,5 +45,5 @@ Let’s connect, exchange ideas, and build useful things together!
 ### Development & API Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,postman" />
+  <img src="https://skillicons.dev/icons?i=git,postman,github" />
 </p>
