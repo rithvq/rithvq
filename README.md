@@ -13,7 +13,7 @@
 ### Languages, Frameworks & Runtime
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,vite,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
 ### Cloud, DevOps & Infrastructure
