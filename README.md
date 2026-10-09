@@ -14,7 +14,7 @@
   <a href="mailto:rithvq@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-E74C3C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://builder.aws.com/">
+  <a href="https://builder.aws.com/community/@rithvq">
     <img src="https://img.shields.io/badge/AWS%20BUILDER%20CENTER-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
   </a>
   
