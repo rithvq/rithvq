@@ -34,7 +34,7 @@ Let’s connect, exchange ideas, and build useful things together!
 
 ## Tech Stack & Tools
 
-### Languages, Frameworks & Runtime
+### Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,typescript" />
