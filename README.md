@@ -37,7 +37,7 @@ Let’s connect, exchange ideas, and build useful things together!
 ### Languages, Frameworks & Runtime
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,typescript" />
 </p>
 
 ### Cloud, DevOps & Infrastructure
