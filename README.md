@@ -25,7 +25,7 @@
 ## Welcome To my Profile
 
 
-I’m Rithvik, a Computer Science student, focused on Cloud & Platform Engineering. Venturing more into Cloud Architect, Operations, Administration, DevOps and SRE, I enjoy building and deploying applications on AWS, working with Linux, Python, and Java, and exploring how automation and monitoring help systems run reliably. Through my cloud engineering projects involving AWS deployments and predictive cloud repair simulations, I’m turning these interests into practical experience.
+I’m Rithvik, a Computer Science student, focused on Cloud & Platform Engineering. Venturing more into Cloud Architect, Operations, Administration, DevOps and SRE, I enjoy building and deploying applications on AWS, Azure, working with Linux, Python, and Java, and exploring how automation and monitoring help systems run reliably. Through my cloud engineering projects involving AWS deployments and predictive cloud repair simulations, I’m turning these interests into practical experience.
 
 Let’s connect, exchange ideas, and build useful things together!
 
@@ -43,7 +43,7 @@ Let’s connect, exchange ideas, and build useful things together!
 ### Cloud, DevOps & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,grafana,prometheus,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,githubactions,grafana,prometheus,linux" />
 </p>
 
 ### Development & API Tools
