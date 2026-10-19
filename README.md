@@ -25,7 +25,7 @@
 ## Welcome To my Profile
 
 
-I’m Rithvik, a Computer Science student, focused on Cloud & Platform Engineering. Venturing more into Cloud Architecturing, Operations, Administration, DevOps and SRE, I enjoy building and deploying applications on AWS, Azure, working with Linux, Python, and Java, and exploring how automation and monitoring help systems run reliably. Through my cloud engineering projects involving AWS deployments and predictive cloud repair simulations, I’m turning these interests into practical experience.
+I’m Rithvik, a Computer Science student working in Cloud & Platform Engineering, with a constant urge to understand what happens beneath the surface of the systems I build. I’m relentlessly exploring cloud architecture, infrastructure, operations, administration, and SRE, pushing beyond simply making applications work to understanding how to make them scalable, automated, secure, and resilient. From deploying applications on AWS and Azure to working with Linux, Python, and Java, I’m driven by the challenge of turning complex infrastructure problems into practical engineering solutions. Through hands-on projects in cloud deployment and predictive cloud repair simulations, I’m continuously pushing my technical boundaries, experimenting, breaking things, debugging, and learning how to build systems that don't just work, but work reliably at scale.
 
 Let’s connect, exchange ideas, and build useful things together!
 
